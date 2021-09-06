@@ -10,5 +10,5 @@ Här finns mest demonstrations-repos för diverse saker för Webbutvecklings-pro
 * Telefon: 010 - 142 86 95
 
 ### Statistik
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=matdah&count_private=true&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=matdah&langs_count=5)]()
