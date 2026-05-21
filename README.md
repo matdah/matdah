@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:512BD4&height=130&section=header&text=Mattias%20Dahlgren&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Webbutveckling%20%7C%20Mittuniversitetet&descAlignY=75&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=512BD4&width=600&lines=Lektor+i+Webbutveckling+%F0%9F%8E%93;.NET+%26+Blazor+entusiast+%F0%9F%9A%80;Alltid+n%C3%A5got+nytt+att+l%C3%A4ra+sig+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=512BD4&width=600&lines=Lärare+i+Webbutveckling+%F0%9F%8E%93;.NET+%26+Blazor+entusiast+%F0%9F%9A%80;Alltid+n%C3%A5got+nytt+att+l%C3%A4ra+sig+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 ---
 
