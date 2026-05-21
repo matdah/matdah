@@ -48,30 +48,4 @@ Här finns mest demonstrations-repos för diverse saker för **Webbutvecklings-p
 
 ---
 
-## 📊 GitHub Statistik
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=matdah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matdah&langs_count=6&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matdah&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
-## 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matdah/matdah/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matdah/matdah/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/matdah/matdah/output/github-snake.svg" />
-</picture>
-
----
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:1a1a2e&height=80&section=footer)
